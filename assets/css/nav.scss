@@ -1,0 +1,11 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+main {
+  margin: 3rem auto;
+  height: 100%;
+}

@@ -1,0 +1,32 @@
+nombre: 'Mapatón Ciudadano'
+objetivo: 'Entre todos mapear las líneas de transporte público de todo el país'
+status: 'Activo'
+imagen-perfil: 'mapmap.png'
+actividades:
+  - numero: 1
+    nombre: 'Investigar'
+    fecha: 2022-01-01
+    status: 'Cerrada'
+    perfiles: ['Cualquier persona', 'govvies', 'politólogos']
+  - numero: 2
+    nombre: 'Armar el mapa de todos los transportes públicos del país'
+    fecha: 2022-01-01
+    status: 'Abierta'
+    perfiles: ['todas', 'maperas']
+roadmap:
+  - numero: 1
+    nombre: 'Investigación'
+    descripcion: 'De diferentes congresos, identificar los conceptos de información relevantes'
+    status: 'Cerrada'
+  - numero: 2
+    nombre: "Beta del estandard"
+    descripcion: 'De diferentes congresos, identificar los conceptos de información relevantes'
+    status: 'Abierta'
+  - numero: 3
+    nombre: "Beta del API"
+    descripcion: 'De diferentes congresos, identificar los conceptos de información relevantes'
+    status: 'Sin comenzar'
+  - numero: 4
+    nombre: "Implementación con congresos"
+    descripcion: 'De diferentes congresos, identificar los conceptos de información relevantes'
+    status: 'Sin comenzar'

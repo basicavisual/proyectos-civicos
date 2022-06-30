@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14.446547mm"
+   height="18.184811mm"
+   viewBox="0 0 14.446547 18.184811"
+   version="1.1"
+   id="svg1044"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="cafe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1046"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75722503"
+     inkscape:cx="160.45428"
+     inkscape:cy="243.6528"
+     inkscape:window-width="1862"
+     inkscape:window-height="1016"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1041" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.441432,-84.200536)">
+    <g
+       id="g1011"
+       transform="matrix(0.26458333,0,0,0.26458333,-43.659403,-29.906316)">
+      <ellipse
+         class="cls-1"
+         cx="353.95001"
+         cy="485.70999"
+         rx="24.75"
+         ry="14.29"
+         id="ellipse180"
+         style="opacity:0.4;fill:#d6d8e5" />
+      <path
+         class="cls-8"
+         d="m 381.12,483.68 v -38.12 l -49.39,1.25 0.1,35.13 c -0.92,4.23 1.43,8.65 7.05,11.9 9.66,5.58 25.33,5.58 35,0 4.86,-2.84 7.27,-6.49 7.24,-10.16 z"
+         id="path182"
+         style="fill:#a6ce28" />
+      <ellipse
+         class="cls-9"
+         cx="356.38"
+         cy="445.56"
+         rx="24.75"
+         ry="14.29"
+         id="ellipse184"
+         style="fill:#bcd64d" />
+      <path
+         class="cls-10"
+         d="m 377.21,445.56 c 0,2.33 -1.93,4.77 -5.29,6.71 A 31.35,31.35 0 0 1 358,455.9 q -0.8,0 -1.59,0 c -5.85,0 -11.51,-1.33 -15.54,-3.66 -3.36,-1.94 -5.29,-4.38 -5.29,-6.71 0,-2.33 1.93,-4.77 5.29,-6.71 4,-2.33 9.69,-3.66 15.54,-3.66 0.53,0 1.06,0 1.59,0 a 31.22,31.22 0 0 1 13.95,3.62 c 3.33,2.01 5.26,4.46 5.26,6.78 z"
+         id="path186"
+         style="fill:#28221c" />
+      <path
+         class="cls-11"
+         d="m 377.21,445.56 c 0,2.33 -1.93,4.77 -5.29,6.71 a 28.64,28.64 0 0 1 -27.91,0 c -3.36,-1.94 -5.29,-4.38 -5.29,-6.71 0,-2.33 1.93,-4.77 5.29,-6.71 a 28.71,28.71 0 0 1 27.91,0 c 3.36,1.94 5.29,4.39 5.29,6.71 z"
+         id="path188"
+         style="opacity:0.07;fill:#ffffff" />
+      <path
+         class="cls-12"
+         d="m 377.51,463.21 -5.26,-3 -2.55,1.48 2.55,1.48 v 1 l 4.93,2.84 -0.15,0.91 c 0.72,0.61 3.26,5.31 3.26,5.31 l 0.19,-0.16 v 12.27 c 0,3.22 -1.89,2.13 -2.7,1.66 l -5.53,-3.19 -2.55,1.48 2.55,1.48 v 1 l 5.53,3.19 a 8.7,8.7 0 0 0 1.8,0.8 l -0.33,1.54 2.86,-1.61 v 0 0 0 c 1.2,-0.71 1.69,-2.4 1.69,-4.31 v -12.97 c 0.08,-5.41 -4.09,-9.7 -6.29,-11.2 z"
+         id="path190"
+         style="fill:#8da01f" />
+      <path
+         class="cls-13"
+         d="m 375.23,492.34 -5.53,-3.19 v -3.93 l 5.53,3.2 c 0.8,0.46 2.69,1.55 2.69,-1.67 v -12.82 c 0,-3 -2.74,-5.12 -3.2,-5.45 l -5,-2.9 v -3.93 l 5.25,3 c 2.21,1.5 6.37,5.77 6.37,11.2 v 12.83 c -0.02,3.49 -1.62,6.26 -6.11,3.66 z"
+         id="path192"
+         style="fill:#99b524" />
+    </g>
+  </g>
+</svg>

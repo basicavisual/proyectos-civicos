@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+
+
+<section class="hero container my-6">
+  <div class="hero-content py-6 columns is-vcentered">
+    <!-- <p class="title">
+      Proyectos cívicos
+    </p> -->
+    <div class="column is-vcentered">
+      <p class="title is-size-1 is-vcentered">
+        Participa en proyectos que tengan impacto social
+      </p>
+    </div>
+    <div class="column container">
+      <!-- <img src="{{site.baseurl}}assets/images/proyectos/mapaton.png" alt="mapaton" class="hero-image"> -->
+      <img src="{{site.baseurl}}assets/images/cafe.svg" alt="" class="hero-image coffee">
+      <img src="{{site.baseurl}}assets/images/cell.svg" alt="" class="hero-image cell">
+      <img src="{{site.baseurl}}assets/images/planta.svg" alt="" class="hero-image plant">
+    </div>
+  </div>
+
+</section>
+<section id="proyectos" class="container">
+  <div class="columns">
+
+
+
+
+    {% for proyecto_hash in site.data.proyectos %}
+    {% assign proyecto = proyecto_hash[1] %}
+    <div class="column">
+      <div class="card">
+        <div class="card-image card-image-size" style="background-image: url({{site.baseurl}}assets/images/proyectos/{{proyecto.imagen-perfil}}) ;">
+          <!-- <figure class="image">
+            <img src="{{site.baseurl}}assets/images/proyectos/{{proyecto.imagen-perfil}}" alt="Placeholder image">
+          </figure> -->
+        </div>
+        <div class="card-content">
+          <div class="content">
+
+            <div class="columns">
+              <div class="column is-four-fifths">
+
+                <p class="title is-size-5">{{ proyecto.nombre }}</p>
+              </div>
+              <div class="column">
+
+                <p class="button is-rounded is-primary is-small">{{ proyecto.status }}</p>
+              </div>
+            </div>
+
+            <p><span class="has-text-weight-semibold">Objetivo: </span>{{ proyecto.objetivo }}</p>
+
+            {% assign actividades_abiertas = proyecto.actividades | where:"status","Abierta" %}
+            {% for actividad in actividades_abiertas %}
+            <p class="has-text-weight-semibold">Actividad actual: <span class="has-text-weight-normal">{{actividad.nombre}}</span></p>
+            <p class="has-text-weight-semibold">¿Quién puede participar?</p>
+              {% for perfil in actividad.perfiles %}
+                <p class="button is-rounded {{perfil}}">{{ perfil | capitalize }}</p>
+
+              {% endfor %}
+            {% endfor %}
+          </div>
+        </div>
+        <div class="card-footer block is-justify-content-right">
+          <div class="mx-3 my-3">
+            <button class="button bg-secondary">Quiero participar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    <div class="column"></div>
+  </div>
+</section>

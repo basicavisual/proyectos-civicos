@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="13.872981mm"
+   height="23.916843mm"
+   viewBox="0 0 13.826088 23.836"
+   version="1.1"
+   id="svg809"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="planta.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview811"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75722503"
+     inkscape:cx="184.22529"
+     inkscape:cy="189.50774"
+     inkscape:window-width="1862"
+     inkscape:window-height="1016"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs806" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.106728,-42.520383)">
+    <g
+       id="g774"
+       transform="matrix(0.26458333,0,0,0.26458333,23.106301,-13.573929)">
+      <ellipse
+         class="cls-1"
+         cx="23.309999"
+         cy="291.01001"
+         rx="19.209999"
+         ry="11.09"
+         id="ellipse194"
+         style="opacity:0.4;fill:#d6d8e5" />
+      <ellipse
+         class="cls-3"
+         cx="26.049999"
+         cy="288.95001"
+         rx="19.209999"
+         ry="11.09"
+         id="ellipse196"
+         style="fill:#d6d8e5" />
+      <polygon
+         class="cls-3"
+         points="51.77,251.31 0.34,251.03 7.06,289.73 45.21,289.73 "
+         id="polygon198"
+         style="fill:#d6d8e5" />
+      <ellipse
+         class="cls-14"
+         cx="26.049999"
+         cy="250.55"
+         rx="25.74"
+         ry="14.86"
+         id="ellipse200"
+         style="fill:#e4e6ef" />
+      <path
+         class="cls-10"
+         d="m 26.05,262.14 c -6.31,0 -12.19,-1.39 -16.56,-3.92 -3.75,-2.16 -5.9,-5 -5.9,-7.67 0,-2.67 2.15,-5.5 5.9,-7.67 4.37,-2.52 10.25,-3.91 16.56,-3.91 6.31,0 12.19,1.39 16.56,3.91 3.75,2.17 5.9,5 5.9,7.67 0,2.67 -2.15,5.51 -5.9,7.67 -4.37,2.53 -10.25,3.92 -16.56,3.92 z"
+         id="path202"
+         style="fill:#28221c" />
+      <path
+         class="cls-13"
+         d="M 37.13,238.85 A 32.55,32.55 0 0 0 26.21,212.08 v 0 0 l -0.08,-0.07 v 0.14 A 32.52,32.52 0 0 0 15.19,238.9 L 0.48,237.51 c 6.21,23.41 25.73,21.39 25.73,21.39 v 0 c 1.47,0.11 19.67,1.05 25.62,-21.41 z"
+         id="path204"
+         style="fill:#99b524" />
+      <path
+         class="cls-8"
+         d="m 26.21,258.9 c 0,0 -1.32,-18.22 -25.79,-30.5 0,0 -5.8,30.28 25.79,30.5 z"
+         id="path206"
+         style="fill:#a6ce28" />
+      <path
+         class="cls-8"
+         d="m 26.05,258.9 c 0,0 1.32,-18.22 25.79,-30.5 0,0 5.8,30.28 -25.79,30.5 z"
+         id="path208"
+         style="fill:#a6ce28" />
+    </g>
+  </g>
+</svg>

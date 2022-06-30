@@ -1,0 +1,76 @@
+---
+---
+
+@import 'nav';
+
+$primary: #bad33f;
+$secondary: #d4f048;
+$tertiary: #ddfa4c;
+
+.card-image-size {
+  height: 200px;
+  width: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.hero-image {
+  height: 150px;
+}
+
+.todas {
+  background-color: #48c78e;
+  border-color: transparent;
+  color: white;
+}
+
+.maperas {
+  background-color: #f4a261ff;
+  border-color: transparent;
+}
+
+.coffee {
+  animation: floating 3s ease 1s infinite;
+}
+
+.cell {
+  animation: floating 4s ease 2s infinite;
+}
+
+.plant {
+  animation: floating 4s ease .5s infinite;
+}
+
+@keyframes floating{
+  0%{transform:translateY(0px)}
+  50%{transform:translateY(30px)}
+  100%{transform:translateY(0px)}
+}
+.bg-tertiary {
+  background: $tertiary;
+}
+
+.color-tertiary {
+  color: $tertiary;
+}
+
+.border-secondary {
+  border-color: $secondary;
+}
+
+.bg-secondary {
+  background: $secondary;
+  border-color: transparent;
+}
+
+.color-secondary {
+  color: $secondary;
+}
+
+
+.bg-primary {
+  background: $primary;
+}
+
+.color-primary {
+  color: $primary;
+}
